@@ -2,7 +2,7 @@
 
 I'm **[`Hannath M.A`]**, a Passionate computer engineering student ,I am currently pursuing my B.Tech in Computer Science and Engineering (Data Science) at M.A. College of Engineering, Kothamangalam. I also hold a diploma in Computer Science Engineering from Government Polytechnic College, Perumbavoor. With a solid foundation in computer science and a strong interest in data-driven problem solving, I'm passionate about using technology to create innovative and meaningful solutions. I thrive in collaborative environments, enjoy taking on new challenges, and am always eager to learn and grow as a developer.
 
-<a href="www.linkedin.com/in/hannath-m-a-"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <details>
   <summary>More about me</summary>
